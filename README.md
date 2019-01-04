@@ -13,7 +13,7 @@ It's quite simple just run the fillit executable and a file with valid tetrimino
 
     ./fillit testfiles/test
 # I want to test my own set of tetriminos!!
-Head over to testfile and write the tetriminos in the custom file in the same format as the ones above. This program can take up to 26 tetriminos but the time it takes to find an answer will increase exponentially with each tetrimino. Make sure to inclue a newline between each tetrimino like this:
+Head over to testfile and write the tetriminos in the custom file in the same format as the ones above. This program can solve up to 26 tetriminos but the time it takes to find an answer will increase exponentially with each tetrimino. Make sure to inclue a newline between each tetrimino like this:
 
     .##.
     .##.
