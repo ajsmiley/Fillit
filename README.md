@@ -9,7 +9,7 @@ It's pretty simple first we will represent a tetrimino in a 4 x 4 grid of empty 
     ....      ..#.    ....      ....      ....
  
 # How do I fillit?
-It's quite simple just run the fillit executable and a file with valid tetrimino inputs
+It's quite simple just run this command in the terminal. 
 
     ./fillit testfiles/test
 # I want to test my own set of tetriminos!!
